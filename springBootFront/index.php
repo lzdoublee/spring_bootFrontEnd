@@ -102,7 +102,7 @@
 		</div>
 	</div>
 	<?php
-	include 
+ 
 			IF(isset($_POST['login'])){
             $email = $_POST['email'];
             $password = $_POST['password'];
